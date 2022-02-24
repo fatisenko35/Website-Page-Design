@@ -1,0 +1,26 @@
+.section-mid{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darksalmon;
+    height: 5rem;
+    padding: 1rem;
+    background-color: #35424A;
+    color: #fff;
+    button{
+        background-color: #E8491D;
+        height: 2rem;
+        width: 6rem;
+        color: #fff;
+        border: none;
+        outline: none;
+    }
+    input{
+        height: 2rem;
+        width: 15rem;
+        color: #fff;
+    }
+    h3{
+        margin-left: 1rem;
+    }
+}
