@@ -187,7 +187,9 @@ footer {
 }
 
 .services-section-top .services-left div {
+  background-color: #d1d1d1a2;
   padding: 1rem;
+  margin: 1rem 0;
 }
 
 .services-section-top .services-left div h2 {
